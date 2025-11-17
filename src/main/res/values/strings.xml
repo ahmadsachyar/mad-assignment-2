@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">assignment2</string>
+    <string name="preferences_saved">Preferences saved successfully!</string>
+    <string name="preferences_reset">Preferences reset successfully!</string>
+    <string name="select_theme">Please select a theme color</string>
+    <string name="username_required">Username is required</string>
+    <string name="username_min_length">Username must be at least 3 characters</string>
+    <string name="email_required">Email is required</string>
+    <string name="email_invalid">Please enter a valid email address</string>
+    <string name="password_required">Password is required</string>
+    <string name="password_min_length">Password must be at least 6 characters</string>
+    <string name="not_set">Not set</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+</resources>
