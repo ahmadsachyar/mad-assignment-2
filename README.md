@@ -1,2 +1,3 @@
 # mad-assignment-2
 # Made by Ahmad Sachyar L1F21BSCS0097
+The app uses SharedPreferences as a small storage system that all fragments share. The UserSettingsFragment saves user input after checking that it is valid and reloads the saved data whenever it starts or when the user resets the form. MainActivity only switches between fragments. The ProfileViewFragment shows the saved information and listens for changes so it updates as soon as the settings are changed. Key challenges included keeping the data in sync, staying safe with fragment lifecycles, making sure input was valid, and keeping the reset process consistent.
